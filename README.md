@@ -1,2 +1,2 @@
 # apache-php-fpm-codesniffer
-Docker Image for testing apps using php7 and php-fpm
+Docker Image built for apps testing using php7-fpm and apache web server. 
